@@ -1,3 +1,5 @@
+#NOT COMPLETED
+
 text = input().split(" ")
 print(text)
 
